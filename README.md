@@ -61,7 +61,7 @@ Problems are organized by topic and difficulty as I learn and practice DSA.
 
 ## Progress
 
-**Problems Solved:** 7
+**Problems Solved:** 9
 **Current Focus:** Math & Number Basics
 **Language:** C++
 
