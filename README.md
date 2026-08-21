@@ -16,6 +16,7 @@ Problems are organized by topic and difficulty as I learn and practice DSA.
 | [279](./279-perfect-squares)  | Perfect Squares | Medium     |
 | [3371](./3371-harshad-number) | Harshad Number  | Easy       |
 | [412](./412-fizz-buzz)        | Fizz Buzz       | Easy       |
+| [169](./169-Majority-Element) | Majority Element| Easy       |
 
 ### Arrays
 
